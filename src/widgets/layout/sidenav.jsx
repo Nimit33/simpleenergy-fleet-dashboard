@@ -96,7 +96,7 @@ export function Sidenav({ brandImg, brandName, routes }) {
 
 Sidenav.defaultProps = {
   brandImg: "/img/logo-ct.png",
-  brandName: "SimpleEnergy Fleet Dashboard",
+  brandName: "EV Vehicle Fleet Managment Dashboard",
 };
 
 Sidenav.propTypes = {
